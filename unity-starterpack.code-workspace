@@ -1,0 +1,78 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// Configure glob patterns for excluding files and folders.
+		"files.exclude": {
+			"**/.git": true,
+			"**/.DS_Store": true,
+			"**/*.meta": true,
+			"**/*.*.meta": true,
+			"**/*.unity": true,
+			"**/*.unityproj": true,
+			"**/*.mat": true,
+			"**/*.fbx": true,
+			"**/*.FBX": true,
+			"**/*.tga": true,
+			"**/*.cubemap": true,
+			"**/*.prefab": true,
+			"**/Library": true,
+			"**/ProjectSettings": true,
+			"**/Temp": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/Assets/Colorful FX/**": true,
+			"**/Assets/EasySpritesAnimationAssetStore/**": true,
+			"**/Assets/Editor/**": true,
+			"**/Assets/Fonts/**": true,
+			"**/Assets/Materials/**": true,
+			"**/Assets/PigeonCoopToolkit/**": true,
+			"**/Assets/Plugins/**": true,
+			"**/Assets/Animation Assets/**": true,
+			"**/Assets/Models/**": true,
+			"**/Assets/Music/**": true,
+			"**/Assets/Physics2D Materials/**": true,
+			"**/Assets/Prefabs/**": true,
+			"**/Assets/Resources/**": true,
+			"**/Assets/Scenes/**": true,
+			"**/Assets/SFX/**": true,
+			"**/Assets/Shaders/**": true,
+			"**/Assets/sprites/**": true,
+			"**/Assets/SpriteMask/**": true,
+			"**/Assets/Standard Assets/**": true,
+			"**/Assets/Textures/**": true,
+			"**/Assets/Tiled Sprite/**": true,
+			"**/Assets/Videos/**": true
+		},
+		"files.watcherExclude": {
+			"**/.git/objects/**": true,
+			"**/.git/subtree-cache/**": true,
+			"**/Assets/Colorful FX/**": true,
+			"**/Assets/EasySpritesAnimationAssetStore/**": true,
+			"**/Assets/Editor/**": true,
+			"**/Assets/Fonts/**": true,
+			"**/Assets/Materials/**": true,
+			"**/Assets/PigeonCoopToolkit/**": true,
+			"**/Assets/Plugins/**": true,
+			"**/Assets/Animation Assets/**": true,
+			"**/Assets/Models/**": true,
+			"**/Assets/Music/**": true,
+			"**/Assets/Physics2D Materials/**": true,
+			"**/Assets/Prefabs/**": true,
+			"**/Assets/Resources/**": true,
+			"**/Assets/Scenes/**": true,
+			"**/Assets/SFX/**": true,
+			"**/Assets/Shaders/**": true,
+			"**/Assets/sprites/**": true,
+			"**/Assets/SpriteMask/**": true,
+			"**/Assets/Standard Assets/**": true,
+			"**/Assets/Textures/**": true,
+			"**/Assets/Tiled Sprite/**": true,
+			"**/Assets/Videos/**": true
+		}
+	}
+}
