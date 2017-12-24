@@ -34,6 +34,7 @@ class PausedState : MonoBehaviour {
 		Time.timeScale = 1;
 		Time.fixedDeltaTime = 0.02F * Time.timeScale;
 
+		// Restart game
         fsm.state = game.State();
 	}
 }
